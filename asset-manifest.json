@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nggroup/static/css/main.7e1dd0f2.css",
+    "main.js": "/nggroup/static/js/main.ecc97e5c.js",
+    "static/media/warehouse.jpeg": "/nggroup/static/media/warehouse.8d812e1df8974a81b47a.jpeg",
+    "static/media/office.jpeg": "/nggroup/static/media/office.27197543b3d1f695795e.jpeg",
+    "static/media/bg-header.jpg": "/nggroup/static/media/bg-header.31ea66ef07b0b0cce837.jpg",
+    "static/media/rokkitt-regular-webfont.svg": "/nggroup/static/media/rokkitt-regular-webfont.db24ef763c35c10c2790.svg",
+    "static/media/rokkitt-regular-webfont.eot": "/nggroup/static/media/rokkitt-regular-webfont.ba802b4b2447efdf521c.eot",
+    "static/media/rokkitt-regular-webfont.ttf": "/nggroup/static/media/rokkitt-regular-webfont.a4d09deb89964f7e1ba6.ttf",
+    "static/media/rokkitt-regular-webfont.woff": "/nggroup/static/media/rokkitt-regular-webfont.cc64c1ae115115151b13.woff",
+    "static/media/bg-navigation.jpg": "/nggroup/static/media/bg-navigation.11015d7ac7a9bd1435c5.jpg",
+    "static/media/bg-footer.jpg": "/nggroup/static/media/bg-footer.ca3ed8f7a7d4e37cd649.jpg",
+    "static/media/logo.svg": "/nggroup/static/media/logo.dc3e728bc2cf23524e62824e8931e9be.svg",
+    "index.html": "/nggroup/index.html",
+    "main.7e1dd0f2.css.map": "/nggroup/static/css/main.7e1dd0f2.css.map",
+    "main.ecc97e5c.js.map": "/nggroup/static/js/main.ecc97e5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1dd0f2.css",
+    "static/js/main.ecc97e5c.js"
+  ]
+}
