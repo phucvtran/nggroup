@@ -27,8 +27,8 @@ function App() {
         <Route path='/' element={<Home/>}></Route>
         <Route path='/services' element={<Services/>}></Route>
         <Route path='/contact' element={<Contact/>}></Route>
-        {/* <Route path='/404' element={<NotFound/>}></Route>
-        <Route path="*" element={<Navigate to="/404" replace />}></Route> */}
+        <Route path='/404' element={<NotFound/>}></Route>
+        <Route path="*" element={<Navigate to="/404" replace />}></Route>
       </Routes>
     </>
     {location.pathname === '/404' ? null : <Footer/> }
