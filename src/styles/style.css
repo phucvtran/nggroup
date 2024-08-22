@@ -150,8 +150,8 @@ body{
 }
 
 .body .description-container div#description-contact{
-	width: 800px;
-	height: 200px;
+	min-width: 300px;
+	/* height: 200px; */
 	border: #0080FF solid 2px;
 	border-radius: 10px;
 	background-color: #fff;
@@ -175,31 +175,13 @@ body{
 	margin-left: 80px;
 	font-family: 'RokkittRegular';
 	color:#5e5e5e;
+	white-space: nowrap;
 }
 
 .body .description-container div#description-contact h2{
 	color: #0080FF;
 	margin-left: 80px;
-}
-
-@media screen and (max-width:500px) {
-	.body .description-container div#description-contact{
-		width: 97%;
-		height: 200px;
-	}
-
-	.body .description-container div#description-contact h1{
-		margin-left: 30%;
-	}
-	
-	.body .description-container div#description-contact h2{
-		color: #0080FF;
-		margin-left: 30%;
-	}
-	
-	.body .description-container div#description-contact button.contact-button{
-		margin-left: 35%;
-	}
+	white-space: nowrap;
 }
 
 .body div#featured{
